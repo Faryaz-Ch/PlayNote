@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayNote", "PlayNote\PlayNote.csproj", "{02DE0A0C-9878-4116-A241-53178EAB18CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02DE0A0C-9878-4116-A241-53178EAB18CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02DE0A0C-9878-4116-A241-53178EAB18CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02DE0A0C-9878-4116-A241-53178EAB18CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02DE0A0C-9878-4116-A241-53178EAB18CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A91E103-4D9E-43D0-A044-6C8180025036}
+	EndGlobalSection
+EndGlobal
